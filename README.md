@@ -1,5 +1,5 @@
 # Extensive-Eda-on-IPL-Data
-Integrated match data from external CSV files and cleaned it with Pandas and NumPy, handling missing values and outliers. Developed visualizations like bar plots, pie charts, and heatmaps to examine team wins, player performance, and seasonal trends using seaborne and matplotlib. Provided actionable insights on target runs, margins, and performance to aid data-driven decisions.
+Integrated match data from external CSV files and cleaned it with Pandas and NumPy, handling missing values and outliers. Developed visualizations like bar plots, pie charts, and heatmaps to examine team wins, player performance, and seasonal trends using seaborn and matplotlib. Provided actionable insights on target runs, margins, and performance to aid data-driven decisions.
 
 ## Project objective
 Goal is to extract meaningful insights, uncover patterns, and use visualizations to effectively present the
@@ -35,6 +35,7 @@ Highlighted unusual patterns and actionable insights, such as:
 Key players and venue-specific team strategies.
 
 ## Visualisations
+<a href="
 <a href="https://github.com/santosh7569/Extensive-Eda-on-IPL-Data/blob/main/visualisations.pdf"<a/>
 
 
