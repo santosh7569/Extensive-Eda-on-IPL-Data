@@ -35,6 +35,7 @@ Highlighted unusual patterns and actionable insights, such as:
 Key players and venue-specific team strategies.
 
 ## Visualisations
+<a href="https://github.com/santosh7569/Extensive-Eda-on-IPL-Data/blob/main/visualisations.pdf"<a/>
 
 
 
